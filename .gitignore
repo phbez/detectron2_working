@@ -214,7 +214,7 @@ phpy/pyvenv.cfg
 .gitconfig
 detectron2_working/notebooks/output/
 detectron2_working/notebooks/datasets/
-detectron2_working/notebooks/detctron2
+detectron2_working/notebooks/detectron2
 Valid_Faulty/
 Valid_Healthy/
 Valid_total/
@@ -230,5 +230,8 @@ dlenv/
 coco_annotations/
 Classif_image1
 Classif_image/
+.datasets/
+.detectron2/
+.output/
 
 input.jpg
