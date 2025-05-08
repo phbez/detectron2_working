@@ -213,6 +213,8 @@ phpy/CACHEDIR.TAG
 phpy/pyvenv.cfg 
 .gitconfig
 detectron2_working/notebooks/output/
+detectron2_working/notebooks/datasets/
+detectron2_working/notebooks/detctron2
 Valid_Faulty/
 Valid_Healthy/
 Valid_total/
